@@ -3887,7 +3887,7 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
-	},
+	}
 	],
 	"total": 1171
 }
