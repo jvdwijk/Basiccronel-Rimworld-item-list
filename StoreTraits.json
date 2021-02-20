@@ -1,0 +1,11 @@
+{
+	"traits" : [
+	{
+		"abr": "standardTrait",
+		"price": 3500,
+		"category": "Traits",
+		"defname": "Trait"
+	}
+	],
+	"total": 1
+}
